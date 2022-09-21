@@ -6,3 +6,5 @@ function ColoradoStateParks() {
 
   return <h1>Colorado State Parks!</h1>;
 }
+/*to add the export  the ColoradoStateParks variable */
+export default ColoradoStateParks;
